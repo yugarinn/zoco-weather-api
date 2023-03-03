@@ -1,0 +1,94 @@
+{
+  "crags": [
+    {
+    "name": "Patones",
+    "lat": 40.8842,
+    "lon": -3.4420,
+    "disciplines": ["boulder", "sport"]
+  },
+    {
+    "name": "La Pedriza",
+    "lat": 40.7492,
+    "lon": -3.8963,
+    "disciplines": ["boulder", "sport", "trad"]
+  },
+    {
+    "name": "San Martín de Valdeiglesias",
+    "lat": 40.401399,
+    "lon": -4.381271,
+    "disciplines": ["boulder", "sport"]
+  },
+    {
+    "name": "Cadalso de los Vidrios",
+    "lat": 40.298610,
+    "lon": -4.424519,
+    "disciplines": ["sport"]
+  },
+    {
+    "name": "Castillo de Bayuela",
+    "lat": 40.106638,
+    "lon": -4.692327,
+    "disciplines": ["boulder", "sport"]
+  },
+    {
+    "name": "Zarzalejo",
+    "lat": 40.535425,
+    "lon": -4.179254,
+    "disciplines": ["boulder"]
+  },
+    {
+    "name": "Cuenca",
+    "lat": 40.092297,
+    "lon": -2.121984,
+    "disciplines": ["sport"]
+  },
+    {
+    "name": "Peña Bermeja, Carabaña",
+    "lat": 40.254827,
+    "lon": -3.262542,
+    "disciplines": ["sport"]
+  },
+    {
+    "name": "Cuevas, Carabaña",
+    "lat": 40.278972,
+    "lon": -3.248840,
+    "disciplines": ["boulder"]
+  },
+    {
+    "name": "Peña de la Monja, Bustarviejo",
+    "lat": 40.871711,
+    "lon": -3.703405,
+    "disciplines": ["sport"]
+  },
+    {
+    "name": "Toledo",
+    "lat": 39.853534,
+    "lon": -4.03169,
+    "disciplines": ["sport"]
+  },
+    {
+    "name": "Valeria",
+    "lat": 39.804140,
+    "lon": -2.151465,
+    "disciplines": ["sport"]
+  },
+    {
+    "name": "Santamera",
+    "lat": 41.124668,
+    "lon": -2.775425,
+    "disciplines": ["sport"]
+  },
+    {
+    "name": "Viana de Jadraque",
+    "lat": 41.039956,
+    "lon": -2.752005,
+    "disciplines": ["sport"]
+  },
+    {
+    "name": "Tamajón",
+    "lat": 41.013537,
+    "lon": -3.253369,
+    "disciplines": ["boulder"]
+  }
+  ]
+}
