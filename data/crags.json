@@ -89,6 +89,12 @@
     "lat": 41.013537,
     "lon": -3.253369,
     "disciplines": ["boulder"]
+  },
+    {
+    "name": "Albarracin",
+    "lat": 41.013537,
+    "lon": -3.253369,
+    "disciplines": ["boulder"]
   }
   ]
 }
